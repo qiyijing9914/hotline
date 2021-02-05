@@ -1,0 +1,17 @@
+[DATABASE]
+host=172.16.25.52
+username=paidan_user
+password=aaA5y6C9vL
+port=3306
+database=test_12345
+
+[HTTP]
+baseurl=http://172.16.25.62/api/
+port=8080
+timeout=10.0
+
+
+[PARAMS]
+code = 2011140200000107
+
+
